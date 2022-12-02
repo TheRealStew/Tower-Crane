@@ -11,7 +11,7 @@ replace it with Rhino
 
 add this to your server.cfg
 
-start Tower-Crane
+start Tower_Crane
 
 boom you got the Crane
 =====================================
